@@ -1,6 +1,9 @@
 .DS_Store
-node_modules
-/dist
+node_modules/
+dist/
+index.html
+settings.json
+chunks/
 
 
 # local env files
